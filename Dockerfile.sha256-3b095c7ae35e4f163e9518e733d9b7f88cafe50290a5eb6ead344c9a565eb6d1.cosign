@@ -1,2 +1,0 @@
-# Tags:  sha256-3b095c7ae35e4f163e9518e733d9b7f88cafe50290a5eb6ead344c9a565eb6d1.cosign
-FROM gcr.io/distroless/python2.7-debian10:sha256-3b095c7ae35e4f163e9518e733d9b7f88cafe50290a5eb6ead344c9a565eb6d1.cosign
